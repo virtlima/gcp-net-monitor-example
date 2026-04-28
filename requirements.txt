@@ -1,0 +1,4 @@
+google-cloud-network-connectivity>=1.6.0
+google-cloud-monitoring>=2.20.0
+google-cloud-monitoring-dashboards>=2.14.0
+google-cloud-compute>=1.14.0
